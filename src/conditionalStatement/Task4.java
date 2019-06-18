@@ -34,9 +34,9 @@ public class Task4 {
 		case 7:
 			System.out.println("Sunday");
 			break;
-			default:
-				System.out.println("Not a day in week");
-			
+		default:
+			System.out.println("Not a day in week");
+
 		}
 	}
 }
