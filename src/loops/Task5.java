@@ -1,4 +1,4 @@
-package loops;
+package src.loops;
 
 public class Task5 {
 

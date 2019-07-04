@@ -1,4 +1,4 @@
-package primitive;
+package src.primitive;
 
 import javax.swing.JOptionPane;
 

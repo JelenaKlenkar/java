@@ -1,4 +1,4 @@
-package conditionalStatement;
+package src.conditionalStatement;
 
 import javax.swing.JOptionPane;
 

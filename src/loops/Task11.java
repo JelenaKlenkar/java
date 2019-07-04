@@ -1,4 +1,4 @@
-package loops;
+package src.loops;
 
 import javax.swing.JOptionPane;
 
